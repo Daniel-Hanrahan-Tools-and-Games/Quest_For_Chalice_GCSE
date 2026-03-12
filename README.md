@@ -3,7 +3,7 @@ A Game Creation System Version of Quest_For_Chalice_Compacted for Roblox.
 
 Both source code and game is under .rbxl file but however source code is in StarterPlayer > StarterPlayerScript > localscript.
 
-<a href="https://www.roblox.com/games/110831995565617/Bug-Invasion-GCSE">Play Game in Roblox Here</a>
+<a href="https://www.roblox.com/games/86079010556803/Quest-For-Chalice-GCSE">Play Game in Roblox Here</a>
 
 <h3>Both of these links take you to Quest_For_Chalice</h3>
 
